@@ -3,4 +3,4 @@ Eric Sun's User
 
 My favorite programming language is Python.
 
-Here is my webpage link: https://ericsun153.github.io/cse110-lab1/#eric-suns-user-page
+Here is my webpage link: https://ericsun153.github.io/cse110-lab1/
